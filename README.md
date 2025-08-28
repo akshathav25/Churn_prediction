@@ -345,7 +345,3 @@ pnpm test
 2. Make your changes
 3. Test both frontend and backend
 4. Submit a pull request
-
-## License
-
-MIT
